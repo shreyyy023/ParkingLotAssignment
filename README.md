@@ -31,5 +31,4 @@ A Spring Boot backend system for a smart parking lot that manages vehicle parkin
 ## Running the Application
 1. Clone the repository:
 ```bash
-git clone https://github.com/<username>/SmartParkingLot.git
-cd SmartParkingLot
+git clone https://github.com/shreyyy023/ParkingLotAssignment.git
